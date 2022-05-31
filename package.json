@@ -17,7 +17,7 @@
   "author": "Yaad Mohammad",
   "license": "ISC",
   "peerDependencies": {
-    "expo-linear-gradient": "^8.1.0"
+    "react-native-linear-gradient": "^2.5.6"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.59.0"
