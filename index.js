@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Text, View, ScrollView, StyleSheet, Platform } from "react-native";
-import { LinearGradient } from "expo-linear-gradient";
+import LinearGradient from "react-native-linear-gradient";
 
 const iOS = Platform.OS === "ios";
 const HEIGHT = 37;
